@@ -1,0 +1,2 @@
+# Weather-Station
+For this project I am going to create a weather station with an arduino. This weather station will then be connected via ethernet to my router where I will be able to upload data to a web server. The web server will then show the data from the arduino onto a viewing that one can use. This project involves taking data from sensors and then uploading them to a web server. This project allows me to learn how to make a web server as well as learning HTML and integrating it all with arduino.
